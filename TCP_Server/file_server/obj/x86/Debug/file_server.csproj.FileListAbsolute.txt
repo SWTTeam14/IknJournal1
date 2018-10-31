@@ -1,0 +1,15 @@
+/root/Documents/Exercise_6_c#(2) (2)/Exercise_6_c#/Exercise_6_c#/file_server/bin/Debug/file_server.exe
+/root/Documents/Exercise_6_c#(2) (2)/Exercise_6_c#/Exercise_6_c#/file_server/bin/Debug/file_server.pdb
+/root/Documents/Exercise_6_c#(2) (2)/Exercise_6_c#/Exercise_6_c#/file_server/bin/Debug/LIB.dll
+/root/Documents/Exercise_6_c#(2) (2)/Exercise_6_c#/Exercise_6_c#/file_server/bin/Debug/LIB.pdb
+/root/Documents/Exercise_6_c#(2) (2)/Exercise_6_c#/Exercise_6_c#/file_server/obj/x86/Debug/file_server.csprojResolveAssemblyReference.cache
+/root/Documents/Exercise_6_c#(2) (2)/Exercise_6_c#/Exercise_6_c#/file_server/obj/x86/Debug/file_server.csproj.CoreCompileInputs.cache
+/root/Documents/Exercise_6_c#(2) (2)/Exercise_6_c#/Exercise_6_c#/file_server/obj/x86/Debug/file_server.exe
+/root/Documents/Exercise_6_c#(2) (2)/Exercise_6_c#/Exercise_6_c#/file_server/obj/x86/Debug/file_server.pdb
+/root/Desktop/Server/file_server/bin/Debug/file_server.exe
+/root/Desktop/Server/file_server/bin/Debug/file_server.pdb
+/root/Desktop/Server/file_server/bin/Debug/LIB.dll
+/root/Desktop/Server/file_server/bin/Debug/LIB.pdb
+/root/Desktop/Server/file_server/obj/x86/Debug/file_server.csproj.CoreCompileInputs.cache
+/root/Desktop/Server/file_server/obj/x86/Debug/file_server.exe
+/root/Desktop/Server/file_server/obj/x86/Debug/file_server.pdb
