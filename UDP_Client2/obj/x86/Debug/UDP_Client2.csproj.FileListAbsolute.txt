@@ -1,0 +1,6 @@
+/root/Ikn/UDP_Client2/bin/Debug/UDP_Client2.exe
+/root/Ikn/UDP_Client2/bin/Debug/UDP_Client2.pdb
+/root/Ikn/UDP_Client2/obj/x86/Debug/UDP_Client2.csprojResolveAssemblyReference.cache
+/root/Ikn/UDP_Client2/obj/x86/Debug/UDP_Client2.csproj.CoreCompileInputs.cache
+/root/Ikn/UDP_Client2/obj/x86/Debug/UDP_Client2.exe
+/root/Ikn/UDP_Client2/obj/x86/Debug/UDP_Client2.pdb
