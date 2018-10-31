@@ -1,0 +1,15 @@
+/root/Documents/Exercise_6_c#(2) (2)/Exercise_6_c#/Exercise_6_c#/file_client/bin/Debug/file_client.exe
+/root/Documents/Exercise_6_c#(2) (2)/Exercise_6_c#/Exercise_6_c#/file_client/bin/Debug/file_client.pdb
+/root/Documents/Exercise_6_c#(2) (2)/Exercise_6_c#/Exercise_6_c#/file_client/bin/Debug/LIB.dll
+/root/Documents/Exercise_6_c#(2) (2)/Exercise_6_c#/Exercise_6_c#/file_client/bin/Debug/LIB.pdb
+/root/Documents/Exercise_6_c#(2) (2)/Exercise_6_c#/Exercise_6_c#/file_client/obj/x86/Debug/file_client.csproj.CoreCompileInputs.cache
+/root/Documents/Exercise_6_c#(2) (2)/Exercise_6_c#/Exercise_6_c#/file_client/obj/x86/Debug/file_client.exe
+/root/Documents/Exercise_6_c#(2) (2)/Exercise_6_c#/Exercise_6_c#/file_client/obj/x86/Debug/file_client.pdb
+/root/Documents/Exercise_6_c#(2) (2)/Exercise_6_c#/Exercise_6_c#/file_client/obj/x86/Debug/file_client.csprojResolveAssemblyReference.cache
+/root/Desktop/Klient/file_client/bin/Debug/file_client.exe
+/root/Desktop/Klient/file_client/bin/Debug/file_client.pdb
+/root/Desktop/Klient/file_client/bin/Debug/LIB.dll
+/root/Desktop/Klient/file_client/bin/Debug/LIB.pdb
+/root/Desktop/Klient/file_client/obj/x86/Debug/file_client.csproj.CoreCompileInputs.cache
+/root/Desktop/Klient/file_client/obj/x86/Debug/file_client.exe
+/root/Desktop/Klient/file_client/obj/x86/Debug/file_client.pdb
